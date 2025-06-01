@@ -1,3 +1,4 @@
+HEAD
 # 🛍️ API RESTful de Gerenciamento de Produtos
 
 Este projeto é uma API desenvolvida em Node.js para gerenciar produtos de forma simples. Ele permite criar, visualizar, atualizar e deletar produtos, utilizando o padrão REST. Foi projetado para fins educacionais, com estrutura organizada em **routes**, **controllers**, **models** e **validators**.
@@ -124,4 +125,3 @@ Status: 204 No Content
 
 Este projeto foi desenvolvido como prática com apoio do curso **"Escrevendo Prompts Eficazes"** da plataforma [DIO](https://www.dio.me/), utilizando o auxílio da IA para gerar e explicar o código de forma orientada.
 
----
